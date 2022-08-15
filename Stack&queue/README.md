@@ -9,4 +9,5 @@
     -> By compilers to check the parenthesis
     -> To evluate the postfix expression
     -> To convert infix to postfix / prefix form.
-    -> TO store values during the recersion call 
+    -> TO store values during the recersion call
+    -> TO implement DFS of Graph. 
